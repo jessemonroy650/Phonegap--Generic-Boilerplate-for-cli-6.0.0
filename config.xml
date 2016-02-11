@@ -11,8 +11,8 @@
         <!-- <preference name='phonegap-version' value='cli-5.4.1' /> -->
         <preference name='phonegap-version' value='cli-6.0.0' />
 
-        <name>Generic-Boilerplate8</name>
-        <description>Generic-Boilerplate8</description>
+        <name>GenericBoilerplate8</name>
+        <description>GenericBoilerplate8</description>
         <author href="http://bsdmasterindex.com" email="jessemonroy650@yahoo.com">
         Jesse Monroy
         </author>
