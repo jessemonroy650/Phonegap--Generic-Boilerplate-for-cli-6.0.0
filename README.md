@@ -1,2 +1,2 @@
-# Phonegap--Generic-Boilerplate-for-cli-6.0.0
-Phonegap--Generic-Boilerplate-for-cli-6.0.0
+# cordova-storage-file
+A simple test of the Webview's ability to handle file
